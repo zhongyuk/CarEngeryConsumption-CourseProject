@@ -1,0 +1,9 @@
+.DS_Store
+.Rhistory
+*.docx
+
+# Report Requirement
+Final+Report.pdf
+
+# Original Dataset, did not use for analysis
+car_data_original.txt
